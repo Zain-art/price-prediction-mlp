@@ -1,0 +1,5 @@
+setup.py
+ml_project_pipeline_price.egg-info/PKG-INFO
+ml_project_pipeline_price.egg-info/SOURCES.txt
+ml_project_pipeline_price.egg-info/dependency_links.txt
+ml_project_pipeline_price.egg-info/top_level.txt
